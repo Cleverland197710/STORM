@@ -338,12 +338,16 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 61625818985393051, guid: 71871e89651093142a737a849701fd0b, type: 3}
+      propertyPath: ShapeModule.m_Scale.x
+      value: 3.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 61625818985393051, guid: 71871e89651093142a737a849701fd0b, type: 3}
       propertyPath: ShapeModule.m_Scale.y
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 61625818985393051, guid: 71871e89651093142a737a849701fd0b, type: 3}
       propertyPath: ShapeModule.m_Position.y
-      value: 1
+      value: 3.4
       objectReference: {fileID: 0}
     - target: {fileID: 61625818985393051, guid: 71871e89651093142a737a849701fd0b, type: 3}
       propertyPath: ShapeModule.m_Rotation.z
@@ -371,7 +375,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 61625818985393051, guid: 71871e89651093142a737a849701fd0b, type: 3}
       propertyPath: ShapeModule.m_MeshSpawn.mode
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 61625818985393051, guid: 71871e89651093142a737a849701fd0b, type: 3}
       propertyPath: InitialModule.startSize.scalar
@@ -439,11 +443,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 61625818985393051, guid: 71871e89651093142a737a849701fd0b, type: 3}
       propertyPath: EmissionModule.m_Bursts.Array.data[0].repeatInterval
-      value: 10
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 61625818985393051, guid: 71871e89651093142a737a849701fd0b, type: 3}
       propertyPath: EmissionModule.m_Bursts.Array.data[0].countCurve.scalar
-      value: 15
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 980619761199230496, guid: 71871e89651093142a737a849701fd0b, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
@@ -5851,7 +5855,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9661c757ab9c874468418eb3e0fa2f3d, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
