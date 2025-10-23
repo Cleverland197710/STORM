@@ -593,8 +593,6 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_PerRendererData": false,
-    "m_customAttributes": [],
     "m_Value": {
         "m_SerializedTexture": "",
         "m_Guid": ""
@@ -912,12 +910,10 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_PerRendererData": false,
-    "m_customAttributes": [],
     "m_Value": {
-        "r": 0.7490196824073792,
-        "g": 0.7490196824073792,
-        "b": 0.7490196824073792,
+        "r": 33.896759033203128,
+        "g": 33.896759033203128,
+        "b": 33.896759033203128,
         "a": 1.0
     },
     "isMainColor": false,
