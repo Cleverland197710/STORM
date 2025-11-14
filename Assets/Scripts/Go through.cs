@@ -11,6 +11,7 @@ public class Gothrough : MonoBehaviour
         // Create an InputAction that triggers when the Space key is pressed
         nextSceneAction = new InputAction(binding: "<Keyboard>/space");
         nextSceneAction.performed += ctx => LoadNextScene();
+
     }
 
     void OnEnable()
